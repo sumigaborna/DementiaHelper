@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439242344071",
+    "firebase_url": "https://dementia-helper-83b72.firebaseio.com",
+    "project_id": "dementia-helper-83b72",
+    "storage_bucket": "dementia-helper-83b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439242344071:android:9db0799cc9501b1086da22",
+        "android_client_info": {
+          "package_name": "hr.ferit.sumigaborna.dementiahelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439242344071-ph74nf90uvc3lvsko90h6a87lf7i092s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.ferit.sumigaborna.dementiahelper",
+            "certificate_hash": "084c153f3a28d0b0ea6c453c4ce0c407e6df2240"
+          }
+        },
+        {
+          "client_id": "439242344071-haonlma11adca8g6i60cfksp4nmrve9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK7hWKQaNSdTg3TqRITi9WWwlAOJtJnnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439242344071-haonlma11adca8g6i60cfksp4nmrve9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
